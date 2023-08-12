@@ -2,6 +2,9 @@
 ## This project provides a simple web-based application form that collects user information in a step-by-step manner. 
 
 
+<img src= "appl.png">
+
+
 The Application Form is a web-based form designed to collect user information in a user-friendly and interactive way. It features a step-by-step approach with navigational buttons for easy progression through the form. The form uses HTML, CSS, and JavaScript to provide a seamless user experience.
 
  ### Prerequisites
