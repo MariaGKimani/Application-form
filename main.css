@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #e6416e;
+  background-color: #1b8bb1;
   height: 100vh;
   font-family: 'Montserrat', sans-serif;
 }
@@ -164,7 +164,7 @@ select {
 
 button:hover,
 button:focus {
-  background-color: #e66caa;
+  background-color: #0b285a;
   color: #fff;
   outline: none;
 }
